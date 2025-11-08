@@ -1,0 +1,8 @@
+
+#include "../include/struct_g.h"
+#include <stdio.h>
+
+
+void print_structG(StructG* s) {
+    printf("StructG: value=%d\n", s->valueG);
+}

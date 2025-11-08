@@ -1,0 +1,3 @@
+/home/stud2024/4wojtowicze/LabyCpp/lab04/lab04/build/CMakeFiles/compil3.dir
+/home/stud2024/4wojtowicze/LabyCpp/lab04/lab04/build/CMakeFiles/edit_cache.dir
+/home/stud2024/4wojtowicze/LabyCpp/lab04/lab04/build/CMakeFiles/rebuild_cache.dir

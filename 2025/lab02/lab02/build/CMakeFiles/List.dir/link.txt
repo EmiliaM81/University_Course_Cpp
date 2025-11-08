@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic -Wl,--dependency-file=CMakeFiles/List.dir/link.d CMakeFiles/List.dir/main.cpp.o CMakeFiles/List.dir/src/List.cpp.o -o List
