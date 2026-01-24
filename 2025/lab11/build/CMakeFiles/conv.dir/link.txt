@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic -Wl,--dependency-file=CMakeFiles/conv.dir/link.d CMakeFiles/conv.dir/main.cpp.o CMakeFiles/conv.dir/src/Box.cpp.o CMakeFiles/conv.dir/src/Item.cpp.o CMakeFiles/conv.dir/src/Pallet.cpp.o CMakeFiles/conv.dir/src/Shipment.cpp.o -o conv

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/oper.dir/main.cpp.o CMakeFiles/oper.dir/src/TemperatureStats.cpp.o CMakeFiles/oper.dir/src/TrendAnalyzer.cpp.o CMakeFiles/oper.dir/src/WeatherGrid.cpp.o -o oper

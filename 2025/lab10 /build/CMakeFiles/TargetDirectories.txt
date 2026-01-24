@@ -1,0 +1,3 @@
+/Users/emiliawojtowicz/Desktop/lab10 2/build/CMakeFiles/cpy.dir
+/Users/emiliawojtowicz/Desktop/lab10 2/build/CMakeFiles/edit_cache.dir
+/Users/emiliawojtowicz/Desktop/lab10 2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/emiliawojtowicz/Desktop/Programming/CppWorkspace/Sem3/lab142025/build/CMakeFiles/oper.dir
+/Users/emiliawojtowicz/Desktop/Programming/CppWorkspace/Sem3/lab142025/build/CMakeFiles/edit_cache.dir
+/Users/emiliawojtowicz/Desktop/Programming/CppWorkspace/Sem3/lab142025/build/CMakeFiles/rebuild_cache.dir
