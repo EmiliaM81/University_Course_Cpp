@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/zoo.dir/Main.cpp.o CMakeFiles/zoo.dir/src/Bear.cpp.o CMakeFiles/zoo.dir/src/Lion.cpp.o CMakeFiles/zoo.dir/src/Tiger.cpp.o -o zoo

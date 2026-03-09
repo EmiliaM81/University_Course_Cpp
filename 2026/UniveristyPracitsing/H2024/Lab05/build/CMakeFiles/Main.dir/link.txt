@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Main.dir/main.cpp.o CMakeFiles/Main.dir/src/BookArchiveApp.cpp.o CMakeFiles/Main.dir/src/Czasopismo.cpp.o CMakeFiles/Main.dir/src/IKsiazka.cpp.o CMakeFiles/Main.dir/src/Komiks.cpp.o CMakeFiles/Main.dir/src/Ksiazka.cpp.o CMakeFiles/Main.dir/src/User.cpp.o -o Main

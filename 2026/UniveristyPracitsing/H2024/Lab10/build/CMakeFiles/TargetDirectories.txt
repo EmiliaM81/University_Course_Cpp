@@ -1,0 +1,3 @@
+/Users/emiliawojtowicz/Desktop/Programming/CppWorkspace/Sem4/H2024/Lab10/build/CMakeFiles/company.dir
+/Users/emiliawojtowicz/Desktop/Programming/CppWorkspace/Sem4/H2024/Lab10/build/CMakeFiles/edit_cache.dir
+/Users/emiliawojtowicz/Desktop/Programming/CppWorkspace/Sem4/H2024/Lab10/build/CMakeFiles/rebuild_cache.dir
